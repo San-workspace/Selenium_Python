@@ -1,0 +1,46 @@
+1669730574197	geckodriver	INFO	Listening on 127.0.0.1:36636
+1669731473239	geckodriver	INFO	Listening on 127.0.0.1:36700
+1669731476444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "36701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DEEPTHA\\AppData\\Local\\Temp\\rust_mozprofileLfC3OM"
+1669731479593	Marionette	INFO	Marionette enabled
+1669731479608	Marionette	INFO	Listening on port 36711
+Read port: 36711
+WebDriver BiDi listening on ws://127.0.0.1:36701
+1669731480383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DEEPTHA\\AppData\\Local\\Temp\\rust_mozprofileLfC3OM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36701/devtools/browser/15a9d458-6fd3-4116-8b03-1702a3effbb9
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1669731500451	Marionette	INFO	Stopped listening on port 36711
+[Parent 9616, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669736022081	geckodriver	INFO	Listening on 127.0.0.1:37030
+1669736025100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "37031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DEEPTHA\\AppData\\Local\\Temp\\rust_mozprofilejOy5BZ"
+1669736026610	Marionette	INFO	Marionette enabled
+1669736026616	Marionette	INFO	Listening on port 37040
+Read port: 37040
+WebDriver BiDi listening on ws://127.0.0.1:37031
+1669736026843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DEEPTHA\\AppData\\Local\\Temp\\rust_mozprofilejOy5BZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37031/devtools/browser/1e465eef-5077-43d6-9074-5e063cce56d9
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1669736051699	Marionette	INFO	Stopped listening on port 37040
+[Parent 1956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 1956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
