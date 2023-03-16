@@ -7,6 +7,7 @@ chrome_service=Service("C:/Users/DEEPTHA/Desktop/Sankar/Selenium-Python/chromedr
 from selenium.webdriver.chrome.options import Options
 chrome_options=Options()
 chrome_options.add_experimental_option("detach",True)
+
 #headless run
 chrome_options.add_argument("headless")
 
@@ -20,6 +21,10 @@ driver.get("https://rahulshettyacademy.com/AutomationPractice/")
 driver.maximize_window()
 #scroll down
 driver.execute_script("window.scrollBy(0,700);")
+title=driver.execute_script(("return document.title"))  #to get page title
+current_url=driver.execute_script("return document.URL") #to get page URL
+print(title)
+print(current_url)
 #screenshot
-driver.get_screenshot_as_file("screenshot.png")
+driver.get_screenshot_as_file("screenshot_1.png")
 
